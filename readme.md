@@ -18,5 +18,6 @@
 ## Tabla
 
 | horario | lunes | martes  |
+|.........|.......|.........|
 | 10      | gym   | reunión |
 | 11      | cafe  | gym     |
